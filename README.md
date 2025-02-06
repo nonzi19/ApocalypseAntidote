@@ -12,7 +12,7 @@ This is my project Game Programming II which is Zombie Survival Game. The game i
 - **Sound Effects & Animations** – Enhances immersion with shooting sounds and zombie animations.
 
 ## 🛠 Installation & Setup
-- Link Build File: 
+- Link Build File: https://drive.google.com/drive/folders/1TYtPCuatkNYZrhlW-7Kc1IMsrt2LbvfZ?usp=sharing
 
 ## 🎮 Controls
 - **WASD** – Move the player
